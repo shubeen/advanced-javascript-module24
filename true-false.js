@@ -15,5 +15,7 @@ else{
 }
 // 0
 // undefined
-// null / NaN
+// null / NaN / false
 // ""  all are false 
+
+// truthy  [], {}, " "; ' '; 

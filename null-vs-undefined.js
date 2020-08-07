@@ -32,3 +32,9 @@ console.log(result3);
 let person ={name:'shubeen', phone:645372};
 console.log(person.id);
 
+// quiz 
+{/* <br /> <br /> function doSomething(x, y){
+<br /> console.log(y);<br /> }
+<br /> 
+<br /> doSomething(32);
+//  */}
