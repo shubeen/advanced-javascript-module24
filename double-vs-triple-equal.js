@@ -30,3 +30,6 @@ if(num1==num2){
 else{
     console.log('false');
 }
+
+
+{/* <br /> <br /> if (‘2’===2){<br /> console.log(“Inside if”);<br /> }<br /> else{<br /> console.log(“Inside else”);<br /> } */}
